@@ -10,6 +10,14 @@ Heute habe ich angefangen mit einer neuen Webseite, welche ich über meine Arbei
 
 ## Arbeitspakete 14.11.2025
 
-- [ ] Bearbeitung Videografie Webseite (inhaltlich mit eigenen Informtionen ersetzen)
-- [ ] Bearbeitung Videografie Webseite (Responsives Design für Handy-Ansicht)
-- [ ] Fertigstellung Videografie Webseite (Letzte Änderungen und Feinschliffe und anschliessende Veröffentlichung auf Netlify)
+- [x] Bearbeitung Videografie Webseite (inhaltlich mit eigenen Informtionen ersetzen)
+- [x] Bearbeitung Videografie Webseite (Responsives Design für Handy-Ansicht)
+- [x] Fertigstellung Videografie Webseite (Letzte Änderungen und Feinschliffe und anschliessende Veröffentlichung auf Netlify)
+
+Heute konnte ich meine Webseite vollständig fertigstellen und habe noch alle Änderungen und Feinschliffe daran machen können. Noch in der gleichen Zeit konnte ich eine Domain dafür bei Hosttech kaufen und konnte diese direkt mit Netlify verbinden. Die Seite ist nun aufrufbar unter **squeezymedia.ch** und vollständig funktionsfähig.
+
+## Arbeitspakete 21.11.2025
+
+- [ ] Neues n8n Projekt beginnen
+- [ ] Recherche nach verschiedenen n8n Templates die auf meine Idee passeb
+- [ ] Anfangen mit Umsetzung des Workflows
